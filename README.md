@@ -13,7 +13,7 @@ this repository. Cloning it does not install or launch an app.
 
 Before installing a distributed version, confirm its publisher, supported
 platforms, and installation instructions. This repository does not currently
-provide a verified release or installer. If you need setup guidance, open an
+provide a verified release or installer. If you need setup guidance, open a
 pull request requesting documentation of the official distribution location
 and supported platforms.
 

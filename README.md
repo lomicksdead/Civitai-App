@@ -14,12 +14,14 @@ this repository. Cloning it does not install or launch an app.
 Before installing a distributed version, confirm its publisher, supported
 platforms, and installation instructions. This repository does not currently
 provide a verified release or installer. If you need setup guidance, open an
-issue asking for the official distribution location and supported platforms.
+pull request requesting documentation of the official distribution location
+and supported platforms.
 
 ## Contributing and reporting issues
 
-Use this repository's **Issues** tab to report a problem or request source code,
-setup instructions, or feature documentation. For a UX issue, include:
+The issue tracker is currently disabled. Use a documentation pull request to
+suggest corrections or flag missing setup and feature documentation. When
+sharing UX feedback with the maintainer, include:
 
 - The screen or flow you were using and the steps to reproduce the problem.
 - What you expected to happen and what actually happened.
